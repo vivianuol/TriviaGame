@@ -1,0 +1,49 @@
+    body{
+        background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/PDaTSuJ/videoblocks-vj-light-event-concert-dance-music-videos-stage-party-abstract-led-neon-tunnel-background-loop_hcdco4o8m_thumbnail-full01.png") no-repeat no-repeat center fixed;
+        background-size: cover;
+    }
+
+    .wrapper{
+        width: 90%;
+        margin: 80px auto;
+        background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQwuZR73uFaerKGZFbABypcZN8g3GWaref-t6qPUzYLTWpn-ztUA) no-repeat center fixed;
+        background-size: cover;
+
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 25px;
+        font-weight: bold;
+        color: whitesmoke;
+    }
+
+    #title{
+        text-align: center;
+        padding: 20px 100px;
+    }
+
+    #timer{
+        text-align: center;
+        margin: 20px 150px;
+
+    }
+
+    #questionAnswer{
+        text-align: left;
+        margin: 50px 40px;
+    }
+
+    #questions, #choices {
+        padding: 20px 20px;
+    }
+
+    .start {
+        margin: 30px auto;
+    }
+
+    button {
+        position: relative;
+        left: 45%;
+        margin: 10px auto;
+        height: 50px;
+        width: 100px;
+    }
