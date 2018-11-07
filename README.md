@@ -13,5 +13,5 @@
 
 Specially thanks for my husband, who helps me to debug on time control function and move-onto-next-page function! Without him, this project could be harder to me.
 
-Click [here](http://www.abc.com) to see the game.
+Click [here](https://vivianuol.github.io/TriviaGame/) to see the game.
 
